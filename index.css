@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0%;
+    background-color: rgb(60, 146, 117);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .genre-column {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .card {
+    width: 200px;
+    height: 120px;
+    border-radius: 20px;
+    border: solid 8px black;
+    text-align: center;
+    background-color: rgb(108, 113, 180);
+    padding: 5px;
+    margin: 10px;
+  }
+  
